@@ -23,8 +23,8 @@
   ```
 - Nozaki, Jumon, and Tatsuya Komatsu. "**Relaxing the conditional independence assumption of CTC-based ASR by conditioning on intermediate predictions.**" arXiv preprint arXiv:2104.02724 (2021). [paper](https://www.isca-archive.org/interspeech_2021/nozaki21_interspeech.pdf)
   ```text
-  CTC-based ASR suffer from the "Conditional Independence Assumption" issue, which affects their accuracy.
-  This paper proposes intermediate prediction method to relax the assumption problem.
+  CTC-based ASR suffer from the "Conditional Independence Assumption", which affects its accuracy.
+  This paper proposes intermediate prediction to relax the assumption problem.
   ```
 - Watanabe, Shinji, et al. "**Hybrid CTC/attention architecture for end-to-end speech recognition.**" IEEE Journal of Selected Topics in Signal Processing 11.8 (2017): 1240-1253. [paper](https://merl.com/publications/docs/TR2017-190.pdf)
   ```text
