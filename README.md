@@ -46,3 +46,23 @@
   This paper discusses issues of low-light conditions in CV tasks and explains
   limitations of hardware-based methods and discusses different methods to address this.
   ```
+- Liang, Jingyun, et al. "**Swinir: Image restoration using swin transformer.**" Proceedings of the IEEE/CVF international conference on computer vision. 2021. [paper](https://arxiv.org/pdf/2108.10257)
+  ```
+  It presents SwinIR for image restoration based on Swin Transformer. It achieves
+  SOTA performance on restoration, denoising and compression tasks.
+  ```
+- Yang, Fuzhi, et al. "**Learning texture transformer network for image super-resolution.**" Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020. [paper](https://arxiv.org/pdf/2006.04139)
+  ```
+  It describes limitations of existing approaches and presents texture Transformer
+  Network for Image SuperResolution, optimized for image super-resolution tasks.
+  ```
+- Dong, Chao, Chen Change Loy, and Xiaoou Tang. "**Accelerating the super-resolution convolutional neural network.**" European conference on computer vision. Cham: Springer International Publishing, 2016. [paper](https://arxiv.org/pdf/1608.00367)
+  ```
+  This paper highlights how they accelerate SRCNN by introducing deconvolution layer
+  at the end of the network, achieving acceleration of more than 40x. 
+  ```
+- Dong, Chao, et al. "**Image super-resolution using deep convolutional networks.**" IEEE transactions on pattern analysis and machine intelligence 38.2 (2015): 295-307. [paper](https://arxiv.org/pdf/1501.00092)
+  ```
+  It presents a deep learning method for single image super resolution tasks
+  called Super-Resolution Convolution Neural Network or SRCNN.
+  ```
