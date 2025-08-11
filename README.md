@@ -36,3 +36,13 @@
   Discusses rapid progress of TTS, describes limitations of autoregressive TTS models.
   Presents non-autoregressive TTS models as a solution.
   ```
+
+## Vision 
+
+### Image Enhancement
+
+- Liu, Fangxue, and Lei Fan. "**A review of advancements in low-light image enhancement using deep learning.**" arXiv preprint arXiv:2505.05759 (2025). [paper](https://www.arxiv.org/pdf/2505.05759)
+  ```text
+  This paper discusses issues of low-light conditions in CV tasks and explains
+  limitations of hardware-based methods and discusses different methods to address this.
+  ```
