@@ -4,6 +4,15 @@
 <p>A collection of awesome AI papers.</p>
 </div>
 
+## Table of Contents
+- [Dataset](#dataset)
+  - [Dataset for LLM](#dataset-for-llm)
+- [Speech and Audio AI](#speech-and-audio-ai)
+  - [Speech to Text](#speech-to-text)
+  - [Text to Speech](#text-to-speech)
+- [Vision](#vision)
+  - [Image Enhancement](#image-enhancement)
+
 ## Dataset
 
 ### Dataset for LLM
@@ -12,7 +21,7 @@
   Discusses different datasets for training LLMs
   ```
 
-## Speech & Audio AI
+## Speech and Audio AI
 
 ### Speech to Text
 
