@@ -4,6 +4,14 @@
 <p>A collection of awesome AI papers.</p>
 </div>
 
+## Dataset
+
+### Dataset for LLM
+- Liu, Yang, et al. "**Datasets for large language models: A comprehensive survey.**" arXiv preprint arXiv:2402.18041 (2024). [paper](https://arxiv.org/pdf/2402.18041)
+  ```
+  Discusses different datasets for training LLMs
+  ```
+
 ## Speech & Audio AI
 
 ### Speech to Text
