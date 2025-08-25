@@ -78,6 +78,11 @@
   It describes limitations of existing approaches and presents texture Transformer
   Network for Image SuperResolution, optimized for image super-resolution tasks.
   ```
+- Ledig, Christian, et al. "**Photo-realistic single image super-resolution using a generative adversarial network.**" Proceedings of the IEEE conference on computer vision and pattern recognition. 2017. [paper](https://arxiv.org/pdf/1609.04802)
+  ```
+  It presents SRGAN, capable of inferring photo realistic images for 4x upscaling.
+  Also proposes a perpetual loss function.
+  ```
 - Dong, Chao, Chen Change Loy, and Xiaoou Tang. "**Accelerating the super-resolution convolutional neural network.**" European conference on computer vision. Cham: Springer International Publishing, 2016. [paper](https://arxiv.org/pdf/1608.00367)
   ```
   This paper highlights how they accelerate SRCNN by introducing deconvolution layer
