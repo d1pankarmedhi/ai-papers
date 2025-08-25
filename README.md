@@ -68,6 +68,11 @@
   It presents SwinIR for image restoration based on Swin Transformer. It achieves
   SOTA performance on restoration, denoising and compression tasks.
   ```
+- Wang, Zhihao, Jian Chen, and Steven CH Hoi. "**Deep learning for image super-resolution: A survey.**" IEEE transactions on pattern analysis and machine intelligence 43.10 (2020): 3365-3387. [paper](https://arxiv.org/pdf/1902.06068)
+  ```
+  This paper discusses the recent development in image super-resolution with
+  deep learning. 
+  ```
 - Yang, Fuzhi, et al. "**Learning texture transformer network for image super-resolution.**" Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020. [paper](https://arxiv.org/pdf/2006.04139)
   ```
   It describes limitations of existing approaches and presents texture Transformer
