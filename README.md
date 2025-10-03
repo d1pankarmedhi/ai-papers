@@ -51,11 +51,29 @@
   Describes the limitations and challenges of ASR in conversational systems and presents a 
   novel ASR systems based on an attention-based Conformer architecture, Conditional VAE.
   ```
+  <table>
+    <tbody>
+      <tr>
+        <td> <img width="300"  alt="image" src="https://github.com/user-attachments/assets/39d97b9a-215b-403d-a42d-f3e41e981073" /></td>
+        <td><img width="600"  alt="image" src="https://github.com/user-attachments/assets/da6bc287-e747-4b6d-adc1-123c0ed00339" /></td>
+      </tr>
+    </tbody>
+  </table>
+
 - Nozaki, Jumon, and Tatsuya Komatsu. "**Relaxing the conditional independence assumption of CTC-based ASR by conditioning on intermediate predictions.**" arXiv preprint arXiv:2104.02724 (2021). [paper](https://www.isca-archive.org/interspeech_2021/nozaki21_interspeech.pdf)
   ```text
   CTC-based ASR suffer from the "Conditional Independence Assumption", which affects its accuracy.
   This paper proposes intermediate prediction to relax the assumption problem.
   ```
+    <table>
+    <tbody>
+      <tr>
+        <td> <img width="900" alt="image" src="https://github.com/user-attachments/assets/78410117-fec3-47aa-9956-c23cbb1a8d67" /></td>
+        <td><img width="300"  alt="image" src="https://github.com/user-attachments/assets/a0ef47ed-ab77-43dc-a6cc-b8755bbfaf8e" /></td>
+      </tr>
+    </tbody>
+  </table>
+  
 - Watanabe, Shinji, et al. "**Hybrid CTC/attention architecture for end-to-end speech recognition.**" IEEE Journal of Selected Topics in Signal Processing 11.8 (2017): 1240-1253. [paper](https://merl.com/publications/docs/TR2017-190.pdf)
   ```text
   This paper discusses CTC & Transformer-based ASR architectures and proposes hybrid CTC/attention
