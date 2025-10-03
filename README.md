@@ -32,6 +32,14 @@
   This paper discusses LLaDA, a diffusion model trained for language modelling,
   competing with auto-regressive language models.
   ```
+  <table>
+  <tbody>
+    <tr>
+      <td> <img width="300" height="364" alt="image" src="https://github.com/user-attachments/assets/ef501f29-97c3-4309-b82b-539fc85fc5cc" /></td>
+      <td><img width="850" height="276" alt="image" src="https://github.com/user-attachments/assets/afede1ba-3574-4ea3-a7b3-e72641666208" /></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Speech and Audio AI
