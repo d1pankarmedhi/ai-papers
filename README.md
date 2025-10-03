@@ -7,11 +7,14 @@
 ## Table of Contents
 - [Dataset](#dataset)
   - [Dataset for LLM](#dataset-for-llm)
+- [Language](#language)
+  - [Diffusion Transformer](#diffusion-transformer)
 - [Speech and Audio AI](#speech-and-audio-ai)
   - [Speech to Text](#speech-to-text)
   - [Text to Speech](#text-to-speech)
 - [Vision](#vision)
   - [Image Enhancement](#image-enhancement)
+
 
 ## Dataset
 
@@ -20,6 +23,16 @@
   ```
   Discusses different datasets for training LLMs
   ```
+
+## Language
+
+### Diffusion Transformer
+- Nie, Shen, et al. "**Large language diffusion models.**" arXiv preprint arXiv:2502.09992 (2025). [paper](https://arxiv.org/pdf/2502.09992)
+  ```
+  This paper discusses LLaDA, a diffusion model trained for language modelling,
+  competing with auto-regressive language models.
+  ```
+
 
 ## Speech and Audio AI
 
