@@ -14,7 +14,7 @@
   - [Text to Speech](#text-to-speech)
 - [Vision](#vision)
   - [Image Enhancement](#image-enhancement)
-
+- [AI&ML Engineering](#aiml-engineering)
 
 ## Dataset
 
@@ -65,7 +65,7 @@
   CTC-based ASR suffer from the "Conditional Independence Assumption", which affects its accuracy.
   This paper proposes intermediate prediction to relax the assumption problem.
   ```
-    <table>
+  <table>
     <tbody>
       <tr>
         <td> <img width="900" alt="image" src="https://github.com/user-attachments/assets/78410117-fec3-47aa-9956-c23cbb1a8d67" /></td>
@@ -132,3 +132,19 @@
   It presents a deep learning method for single image super resolution tasks
   called Super-Resolution Convolution Neural Network or SRCNN.
   ```
+
+## AI&ML Engineering
+
+- Markov, Igor L., et al. "**Looper: An end-to-end ml platform for product decisions.**" Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022. [paper](https://arxiv.org/pdf/2110.07554)
+  ```
+  This paper introduces Looper, an end-to-end ML platform for
+  real-time smart decision making.
+  ```
+  <table>
+    <tbody>
+      <tr>
+        <td> <img width="500" alt="image" src="https://github.com/user-attachments/assets/08a67cde-eab4-4c2c-8f87-ac00c14f0b5d" /></td>
+        <td><img width="500"  alt="image" src="https://github.com/user-attachments/assets/c40399b8-abd9-4677-98cc-a1c434996d82" /></td>
+      </tr>
+    </tbody>
+  </table>
