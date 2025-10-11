@@ -8,6 +8,7 @@
 - [Dataset](#dataset)
   - [Dataset for LLM](#dataset-for-llm)
 - [Language](#language)
+  - [Recursion](#recursion)
   - [Diffusion Transformer](#diffusion-transformer)
 - [Speech and Audio AI](#speech-and-audio-ai)
   - [Speech to Text](#speech-to-text)
@@ -25,6 +26,12 @@
   ```
 
 ## Language
+
+### Recursion Model
+- Jolicoeur-Martineau, Alexia. "**Less is More: Recursive Reasoning with Tiny Networks.**" arXiv preprint arXiv:2510.04871 (2025). [paper](https://arxiv.org/pdf/2510.04871v1)
+  ```
+  Introduces TRM, a Tiny Recursion Model (7M), uses a recursion reasoning approach,
+  achieving a higher generalisation score than HRML. 
 
 ### Diffusion Transformer
 - Nie, Shen, et al. "**Large language diffusion models.**" arXiv preprint arXiv:2502.09992 (2025). [paper](https://arxiv.org/pdf/2502.09992)
