@@ -172,7 +172,7 @@
     </tbody>
   </table>
   
-- Zhang, Lvmin, Anyi Rao, and Maneesh Agrawala. "**Adding conditional control to text-to-image diffusion models.**" Proceedings of the IEEE/CVF international conference on computer vision. 2023.
+- Zhang, Lvmin, Anyi Rao, and Maneesh Agrawala. "**Adding conditional control to text-to-image diffusion models.**" Proceedings of the IEEE/CVF international conference on computer vision. 2023. [paper](https://arxiv.org/pdf/2302.05543)
   ```
   This paper presents ControlNet, a neural network architecture for controlling Text-to-Image
   models. It describes "zero convolution", connects trainable diffusion model to original, locked model. 
