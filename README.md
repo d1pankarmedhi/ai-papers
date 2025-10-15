@@ -157,6 +157,22 @@
 
 ### Image Generation
 
+- Zhang, Lvmin, Anyi Rao, and Maneesh Agrawala. "**Adding conditional control to text-to-image diffusion models.**" Proceedings of the IEEE/CVF international conference on computer vision. 2023.
+  ```
+  This paper presents ControlNet, a neural network architecture for controlling Text-to-Image
+  models. It describes "zero convolution", connects trainable diffusion model to original, locked model. 
+  ```
+
+  <table>
+    <tbody>
+      <tr>
+        <td> <img width="200" alt="image" src="https://github.com/user-attachments/assets/8d56ba59-5b67-4580-9e06-ddf1314bbfa4" /></td>
+        <td><img width="250"  alt="image" src="https://github.com/user-attachments/assets/8d8ce4c2-744a-4aff-8ad3-2d3aeca822a7" /></td>
+        <td><img width="500"  alt="image" src="https://github.com/user-attachments/assets/d8192c53-3b1b-44f0-8a0a-26eb8e4c8204" /></td>
+      </tr>
+    </tbody>
+  </table>
+  
 - Ramesh, Aditya, et al. "**Hierarchical text-conditional image generation with clip latents.**" arXiv preprint arXiv:2204.06125 1.2 (2022): 3. [paper](https://arxiv.org/pdf/2204.06125)
   ```
   This paper introduces a two-stage model for generating images. The first stage generates
