@@ -157,6 +157,21 @@
 
 ### Image Generation
 
+- Peebles, William, and Saining Xie. "**Scalable diffusion models with transformers**." Proceedings of the IEEE/CVF international conference on computer vision. 2023. [paper](https://arxiv.org/pdf/2212.09748)
+  ```
+  This paper introduces Diffusion models based on Transformer architectures,
+  replacing the UNet with a Transformer that operates on latent patches.
+  ```
+
+  <table>
+    <tbody>
+      <tr>
+        <td> <img width="400" alt="image" src="https://github.com/user-attachments/assets/e44389b8-f8a0-4109-8d6d-94b134733ee6" /></td>
+        <td><img width="400"  alt="image" src="https://github.com/user-attachments/assets/45113673-e82b-4ed8-81bd-fa6e38034b95" /></td>
+      </tr>
+    </tbody>
+  </table>
+  
 - Zhang, Lvmin, Anyi Rao, and Maneesh Agrawala. "**Adding conditional control to text-to-image diffusion models.**" Proceedings of the IEEE/CVF international conference on computer vision. 2023.
   ```
   This paper presents ControlNet, a neural network architecture for controlling Text-to-Image
