@@ -7,7 +7,7 @@
 ## Table of Contents
 - [Dataset](#dataset)
   - [Dataset for LLM](#dataset-for-llm)
-- [Language](#language)
+- [LLM](#llm)
   - [Recursion](#recursion)
   - [Diffusion Transformer](#diffusion-transformer)
 - [Speech and Audio AI](#speech-and-audio-ai)
@@ -16,6 +16,8 @@
 - [Vision](#vision)
   - [Image Enhancement](#image-enhancement)
   - [Image Generation](#image-generation)
+- [Optimization](#optimization)
+  - [Flash Attention](#flash-attention)
 - [AI&ML Engineering](#aiml-engineering)
 
 ## Dataset
@@ -26,7 +28,7 @@
   Discusses different datasets for training LLMs
   ```
 
-## Language
+## LLM
 
 ### Recursion 
 - Jolicoeur-Martineau, Alexia. "**Less is More: Recursive Reasoning with Tiny Networks.**" arXiv preprint arXiv:2510.04871 (2025). [paper](https://arxiv.org/pdf/2510.04871v1)
@@ -46,7 +48,7 @@
   </table>
 
 
-### Diffusion Transformer
+### Diffusion Transformer 
 - Nie, Shen, et al. "**Large language diffusion models.**" arXiv preprint arXiv:2502.09992 (2025). [paper](https://arxiv.org/pdf/2502.09992)
   ```
   This paper discusses LLaDA, a diffusion model trained for language modelling,
@@ -169,10 +171,28 @@
       </tr>
     </tbody>
   </table>
+
+## Optimization
+
+### Flash Attention
+
+- Dao, Tri, et al. "**Flashattention: Fast and memory-efficient exact attention with io-awareness.**" Advances in neural information processing systems 35 (2022): 16344-16359. [paper](https://papers.nips.cc/paper_files/paper/2022/file/67d57c32e20fd0a7a302cb81d36e40d5-Paper-Conference.pdf)
+  ```
+  This paper introduces FlashAttention, an algorithm that reduces the
+  number of memory read/write operations between GPU HBM and SRAM.
+  ```
+  <table>
+    <tbody>
+      <tr>
+        <td> <img width="500" alt="image" src="https://github.com/user-attachments/assets/f53b9a98-0443-4283-9054-6d6754f9b76a" /></td>
+        <td><img width="500"  alt="image" src="https://github.com/user-attachments/assets/66f0b74e-1805-4137-aa08-3665cccab9e2" /></td>
+      </tr>
+    </tbody>
+  </table>
   
 ## AI&ML Engineering
 
-- Markov, Igor L., et al. "**Looper: An end-to-end ml platform for product decisions.**" Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022. [paper](https://arxiv.org/pdf/2110.07554)
+- Markov, Igor L., et al. "**Looper: An end-to-end ML platform for product decisions.**" Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022. [paper](https://arxiv.org/pdf/2110.07554)
   ```
   This paper introduces Looper, an end-to-end ML platform for
   real-time smart decision making.
