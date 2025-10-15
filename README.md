@@ -15,6 +15,7 @@
   - [Text to Speech](#text-to-speech)
 - [Vision](#vision)
   - [Image Enhancement](#image-enhancement)
+  - [Image Generation](#image-generation)
 - [AI&ML Engineering](#aiml-engineering)
 
 ## Dataset
@@ -152,6 +153,23 @@
   called Super-Resolution Convolution Neural Network or SRCNN.
   ```
 
+### Image Generation
+
+- Ramesh, Aditya, et al. "**Hierarchical text-conditional image generation with clip latents.**" arXiv preprint arXiv:2204.06125 1.2 (2022): 3. [paper](https://arxiv.org/pdf/2204.06125)
+  ```
+  This paper introduces a two-stage model for generating images. The first stage generates
+  CLIP image embeddings, the second stage generates an image from these embeddings.
+  ```
+  
+  <table>
+    <tbody>
+      <tr>
+        <td> <img width="500" alt="image" src="https://github.com/user-attachments/assets/05b2d7d5-35a8-4749-865d-779c709b3c35" /></td>
+        <td><img width="350"  alt="image" src="https://github.com/user-attachments/assets/8851777b-bceb-4bc0-93ae-01fd71e7b8ea" /></td>
+      </tr>
+    </tbody>
+  </table>
+  
 ## AI&ML Engineering
 
 - Markov, Igor L., et al. "**Looper: An end-to-end ml platform for product decisions.**" Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2022. [paper](https://arxiv.org/pdf/2110.07554)
