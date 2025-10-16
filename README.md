@@ -8,6 +8,7 @@
 - [Dataset](#dataset)
   - [Dataset for LLM](#dataset-for-llm)
 - [LLM](#llm)
+  - [Security](#security)
   - [Recursion](#recursion)
   - [Diffusion Transformer](#diffusion-transformer)
 - [Speech and Audio AI](#speech-and-audio-ai)
@@ -29,6 +30,22 @@
   ```
 
 ## LLM
+
+### Security
+
+- Souly, Alexandra, et al. "**Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples**." arXiv preprint arXiv:2510.07192 (2025). [paper](https://arxiv.org/pdf/2510.07192)
+  ```
+  This paper discusses LLM poisoning with just 250 documents, regardless of model
+  size (600M to 13B).
+  ```
+  <table>
+    <tbody>
+      <tr>
+        <td> <img width="500" alt="image" src="https://github.com/user-attachments/assets/618a8272-d4de-4aa0-88a8-3be790c92e52" /></td>
+        <td> <img width="500" alt="image" src="https://github.com/user-attachments/assets/721b059f-6409-46aa-9182-44d700695523" /></td>
+      </tr>
+    </tbody>
+  </table>
 
 ### Recursion 
 - Jolicoeur-Martineau, Alexia. "**Less is More: Recursive Reasoning with Tiny Networks.**" arXiv preprint arXiv:2510.04871 (2025). [paper](https://arxiv.org/pdf/2510.04871v1)
