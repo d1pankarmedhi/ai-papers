@@ -33,7 +33,7 @@
 
 ### Security
 
-- Souly, Alexandra, et al. "**Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples**." arXiv preprint arXiv:2510.07192 (2025). [paper](https://arxiv.org/pdf/2510.07192)
+- Souly, Alexandra, et al. "**Poisoning Attacks on LLMs Require a Near-constant Number of Poison Samples**." arXiv preprint arXiv:2510.07192 (2025). [paper](https://arxiv.org/pdf/2510.07192) [blog](https://www.anthropic.com/research/small-samples-poison)
   ```
   This paper discusses LLM poisoning with just 250 documents, regardless of model
   size (600M to 13B).
