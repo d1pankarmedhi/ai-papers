@@ -18,6 +18,7 @@
   - [Image Enhancement](#image-enhancement)
   - [Image Generation](#image-generation)
 - [Optimization](#optimization)
+  - [Prompt Engineering](#prompt-engineering)
   - [Flash Attention](#flash-attention)
 - [AI&ML Engineering](#aiml-engineering)
 
@@ -221,6 +222,23 @@
   </table>
 
 ## Optimization
+
+### Prompt Engineering
+
+- Zhang, Jiayi, et al. "**Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity**." arXiv preprint arXiv:2510.01171 (2025). [paper](https://arxiv.org/pdf/2510.01171)
+  ```
+  This paper introduces Verbalized Sampling, a method to verbalize a
+  probability distribution over a set of responses. Using "Generate 5 responses
+  with their corresponding probabilities, sampled from the full distribution:"
+  ```
+  <table>
+    <tbody>
+      <tr>
+        <td> <img width="500" alt="image" src="https://github.com/user-attachments/assets/6cdf1921-87b3-46bc-8650-f89b63579cb4" /></td>
+        <td><img width="450"  alt="image" src="https://github.com/user-attachments/assets/5d4decce-bbe8-4c04-97f7-78593a30480f" /></td>
+      </tr>
+    </tbody>
+  </table>
 
 ### Flash Attention
 
