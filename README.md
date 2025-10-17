@@ -8,6 +8,7 @@
 - [Dataset](#dataset)
   - [Dataset for LLM](#dataset-for-llm)
 - [LLM](#llm)
+  - [Reinforcement Learning](#reinforcement-learning)
   - [Security](#security)
   - [Recursion](#recursion)
   - [Diffusion Transformer](#diffusion-transformer)
@@ -31,6 +32,15 @@
   ```
 
 ## LLM
+
+### Reinforcement Learning
+
+- Khatri, Devvrit, et al. "The Art of Scaling Reinforcement Learning Compute for LLMs." arXiv, 15 Oct. 2025, arXiv.org/abs/2510.13786. [paper](https://arxiv.org/pdf/2510.13786)
+  ```
+  This paper introduces ScaleRL, framework for analysis and scaling RL for LLMs.
+  Authors used 400,000 GPUs to study how various design impact RL scaling.
+  ```
+
 
 ### Security
 
