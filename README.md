@@ -5,8 +5,7 @@
 </div>
 
 ## Table of Contents
-- [Dataset](#dataset)
-  - [Dataset for LLM](#dataset-for-llm)
+- [Data & Evaluation](#data-and-evaluation)
 - [LLM](#llm)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Security](#security)
@@ -23,9 +22,21 @@
   - [Flash Attention](#flash-attention)
 - [AI&ML Engineering](#aiml-engineering)
 
-## Dataset
+## Data and Evaluation
 
-### Dataset for LLM
+- Shanmugam, Divya, et al. "Evaluating multiple models using labeled and unlabeled data." arXiv preprint arXiv:2501.11866 (2025). [paper](https://arxiv.org/pdf/2501.11866)
+  ```
+  This paper introduces Semi-Supervised Model Evaluation (SSME), evaluating ML classifiers
+  using labelled and unlabeled data, reducing estimation error by over 5.1x. 
+  ```
+  <table>
+    <tbody>
+      <tr>
+        <td> <img width="700" alt="image" src="https://github.com/user-attachments/assets/c7f58f68-5e56-4851-8ecd-fcd0ae8aad58" /></td>
+      </tr>
+    </tbody>
+  </table>
+
 - Liu, Yang, et al. "**Datasets for large language models: A comprehensive survey.**" arXiv preprint arXiv:2402.18041 (2024). [paper](https://arxiv.org/pdf/2402.18041)
   ```
   Discusses different datasets for training LLMs
