@@ -15,6 +15,7 @@
   - [Speech to Text](#speech-to-text)
   - [Text to Speech](#text-to-speech)
 - [Vision](#vision)
+  - [OCR](#ocr)
   - [Image Enhancement](#image-enhancement)
   - [Image Generation](#image-generation)
 - [Optimization](#optimization)
@@ -155,6 +156,23 @@
   ```
 
 ## Vision 
+
+### OCR
+
+- Cui, Cheng, et al. "**PaddleOCR 3.0 Technical Report**". arXiv, arXiv:2507.05595 (2025). [paper](https://arxiv.org/pdf/2510.14528)
+  ```
+  Introduces PadleOCR-VL, high-performance, resource-efficient, document parsing
+  solution based on Vision language models
+  ```
+
+  <table>
+    <tbody>
+      <tr>
+        <td> <img width="600" alt="image" src="https://github.com/user-attachments/assets/cffda414-fca3-4972-9669-455eacc0a892" /></td>
+        <td><img width="200"  alt="image" src="https://github.com/user-attachments/assets/64f1b9e5-e3a3-4796-a3b2-2d12c2d21617" /></td>
+      </tr>
+    </tbody>
+  </table>
 
 ### Image Enhancement
 
