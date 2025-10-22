@@ -7,6 +7,7 @@
 ## Table of Contents
 - [Data & Evaluation](#data-and-evaluation)
 - [LLM](#llm)
+  - [Embedding](#embedding)
   - [Reinforcement Learning](#reinforcement-learning)
   - [Security](#security)
   - [Recursion](#recursion)
@@ -45,6 +46,23 @@
 
 ## LLM
 
+### Embedding
+
+- Su, Jianlin, et al. "**Roformer: Enhanced transformer with rotary position embedding**." Neurocomputing 568 (2024): 127063. [paper](https://arxiv.org/pdf/2104.09864)
+  ```
+  It introduces Rotary Positional Embedding or RoPE, for leveraging positional
+  information in Transformer-based Language models.
+  ```
+
+  <table>
+    <tbody>
+      <tr>
+        <td> <img width="500" alt="image" src="https://github.com/user-attachments/assets/907ec402-0f69-460a-8a29-09c8524cdd64" /></td>
+        <td> <img width="450" alt="image" src="https://github.com/user-attachments/assets/1683b5c8-0f8f-4f1d-823e-2c794593a773" /></td>
+      </tr>
+    </tbody>
+  </table>
+  
 ### Reinforcement Learning
 
 - Khatri, Devvrit, et al. "The Art of Scaling Reinforcement Learning Compute for LLMs." arXiv, 15 Oct. 2025, arXiv.org/abs/2510.13786. [paper](https://arxiv.org/pdf/2510.13786)
